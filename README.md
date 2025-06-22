@@ -1,4 +1,4 @@
-## Technologies Used
+# Technologies Used
 - Programming Language: Java
 - UI Framework: Java Swing
 - Coding Style Guide: Google Java Style Guide (https://google.github.io/styleguide/javaguide.html)
