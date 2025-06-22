@@ -3,15 +3,6 @@
 - UI Framework: Java Swing
 - Coding Style Guide: Google Java Style Guide (https://google.github.io/styleguide/javaguide.html)
 
-## Key Functionalities Implemented
-- Extension 1: Add "Triton" godCard
-- Extension 2: "Timer"
-- Extension 3: Variation in life for Stimulation (Category: Stimulation)
-
-## Design Artifacts
-- `UPDATED CLASS DIAGRAM`: Updated/Combined all class diagram draft showing system architecture/plan
-- `CRC ALL DRAFT`: Combined all drafts (from 15th to 29th) 
-
 # Build instructions
 These build instructions are for both Windows and Mac. As Mac does not have support for a windows style executable, the Mac build instructions end at step 3.
 ## 1. Get Ready
